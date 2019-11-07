@@ -1,0 +1,15 @@
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\bin\Release\Nitro Cracker.exe.config
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\bin\Release\Nitro Cracker.exe
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\bin\Release\Nitro Cracker.pdb
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\bin\Release\Leaf.xNet.dll
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\bin\Release\MetroFramework.dll
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\bin\Release\Leaf.xNet.xml
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro_Cracker.Form1.resources
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro_Cracker.Properties.Resources.resources
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro Cracker.csproj.GenerateResource.cache
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro Cracker.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro Cracker.csproj.CopyComplete
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro Cracker.exe
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro Cracker.pdb
+C:\Users\Elias\source\repos\Nitro Cracker\Nitro Cracker\obj\Release\Nitro Cracker.csprojAssemblyReference.cache
