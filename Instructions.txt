@@ -1,5 +1,0 @@
-If you were able to grab a victims token, this program is perfect for you.
-You can Change the User Profile, Read Private Messages, Change Member Roles if you have Server Permissions (Admin/Mod),
-Write to anyone, Spam Servers and a lot more.
-
-You need a User or Bot Token for that.
