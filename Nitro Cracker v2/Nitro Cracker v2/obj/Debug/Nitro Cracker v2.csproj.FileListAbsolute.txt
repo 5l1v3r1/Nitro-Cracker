@@ -1,0 +1,7 @@
+C:\Users\Elias\source\repos\Nitro Cracker v2\Nitro Cracker v2\bin\Debug\Nitro Cracker v2.exe.config
+C:\Users\Elias\source\repos\Nitro Cracker v2\Nitro Cracker v2\bin\Debug\Nitro Cracker v2.exe
+C:\Users\Elias\source\repos\Nitro Cracker v2\Nitro Cracker v2\bin\Debug\Nitro Cracker v2.pdb
+C:\Users\Elias\source\repos\Nitro Cracker v2\Nitro Cracker v2\obj\Debug\Nitro Cracker v2.csprojAssemblyReference.cache
+C:\Users\Elias\source\repos\Nitro Cracker v2\Nitro Cracker v2\obj\Debug\Nitro Cracker v2.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Nitro Cracker v2\Nitro Cracker v2\obj\Debug\Nitro Cracker v2.exe
+C:\Users\Elias\source\repos\Nitro Cracker v2\Nitro Cracker v2\obj\Debug\Nitro Cracker v2.pdb
